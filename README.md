@@ -34,6 +34,7 @@ The circuit converts AC input into stable DC output using a diode bridge and fil
 ### Etching Process
 ![Etching](04_etching_process.jpeg)
 
+### Printed Layout / Setup
 ![Setup](05_Print.jpeg)
 
 ## Result
