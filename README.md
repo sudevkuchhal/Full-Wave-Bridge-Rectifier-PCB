@@ -36,5 +36,15 @@ The circuit converts AC input into stable DC output using a diode bridge and fil
 
 
 
+### Printed Layout / Setup
+![Setup](05%20Print.jpeg)
+
+
+
+
+
+
+
+
 ## Result
 Successfully converted 12V AC input into stable DC output suitable for low-power electronic circuits.
